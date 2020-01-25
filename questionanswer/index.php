@@ -1,0 +1,1 @@
+<a href="view/registration.php">Welcome The Website</a>
